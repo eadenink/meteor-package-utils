@@ -1,0 +1,19 @@
+{
+  "name": "kolyasya-package-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolyasya/meteor-package-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolyasya/meteor-package-utils/issues"
+  },
+  "homepage": "https://github.com/kolyasya/meteor-package-utils#readme",
+  "dependencies": {
+    "flatted": "^3.3.1"
+  }
+}
