@@ -1,10 +1,5 @@
 export type AsyncDelay = (delayMillis: number) => Promise<any>;
 
-export type CheckAndConvertDebugObject = (
-  debug: object,
-  debugMaxCount: number
-) => object;
-
 export type CheckUnsupportedParams = ({
   params,
   defaultParams,

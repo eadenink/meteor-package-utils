@@ -1,5 +1,4 @@
 export { asyncDelay } from './utils/asyncDelay';
-export { checkAndConvertDebugObject } from './utils/checkAndConvertDebugObject';
 export { checkUnsupportedParams } from './utils/checkUnsupportedParams';
 export { countObjectProperties } from './utils/countObjectProperties';
 export { getDate } from './utils/getDate';
